@@ -4,7 +4,7 @@ import * as styles from "../components/index.module.css"
 
 const IndexPage = () => (
   <Layout>
-
+    <h1>Gatsby JS</h1>
   </Layout>
 )
 
