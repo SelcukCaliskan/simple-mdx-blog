@@ -1,11 +1,10 @@
 import * as React from "react"
-import Layout from "../components/layout"
-import * as styles from "../components/index.module.css"
+import { Container } from "../components"
 
 const IndexPage = () => (
-  <Layout>
+  <Container>
     <h1>Gatsby JS</h1>
-  </Layout>
+  </Container>
 )
 
 export default IndexPage
